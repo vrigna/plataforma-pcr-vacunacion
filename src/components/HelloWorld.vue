@@ -2,7 +2,7 @@
   <div class="hello">
     <h1>{{ msg }}</h1>
     <p>
-      Este proyecto esta desarrollado por un equipo de profecionales,<br>
+      Este proyecto esta desarrollado por un equipo de profecionales<br>
       Vrigna-Josh-German-Ruf0
       <a href="https://cli.vuejs.org" target="_blank" rel="noopener">Askeladd Studio</a>.
     </p>
